@@ -1,4 +1,5 @@
 # Desafio-django-rest
+
 ![image](https://user-images.githubusercontent.com/92062708/178159018-76bcc1be-64d2-49ed-883d-eb18c2a732f1.png)
 ![image](https://user-images.githubusercontent.com/92062708/178159033-10322c47-b13b-44cd-adf8-a2cfe28fcf02.png)
 
@@ -17,8 +18,10 @@ PASSO – A – PASSO DA REALIZAÇÃO
 
 6 - Instalei as dependências do djangorestframework, que são:
 
-  pip install djangorestframework
+  pip install 
+  
   pip install markdown
+  
   pip install django-filter
   
 7 - Registrei o django rest e o aplicativo no settings.py
